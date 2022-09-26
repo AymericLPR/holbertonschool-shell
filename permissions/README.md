@@ -1,1 +1,1 @@
-Project permissions
+Project shell permissions
