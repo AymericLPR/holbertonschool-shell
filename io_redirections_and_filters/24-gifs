@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name *.gif -type f | rev | cut --complement -c | rev
+find . -name "*.gif" -type f | rev | cut --complement -c 1-5 | rev | LC_ALL=C 
